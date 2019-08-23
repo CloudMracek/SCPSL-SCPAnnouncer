@@ -1,0 +1,6 @@
+D:\Programming\Smod2\ExamplePlugin\Builds\ExamplePlugin.dll
+D:\Programming\Smod2\ExamplePlugin\Builds\ExamplePlugin.pdb
+D:\Programming\Smod2\ExamplePlugin\ExamplePlugin\obj\Debug\SCPAnnouncer.csproj.CoreCompileInputs.cache
+D:\Programming\Smod2\ExamplePlugin\ExamplePlugin\obj\Debug\SCPAnnouncer.csproj.CopyComplete
+D:\Programming\Smod2\ExamplePlugin\ExamplePlugin\obj\Debug\ExamplePlugin.dll
+D:\Programming\Smod2\ExamplePlugin\ExamplePlugin\obj\Debug\ExamplePlugin.pdb
