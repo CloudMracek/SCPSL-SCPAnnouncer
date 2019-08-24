@@ -42,8 +42,8 @@ namespace SCPAnnouncer
 
 		public override void Register()
 		{
-			this.AddConfig(new ConfigSetting("scp-announce-time", 30, true, "Sets the delay of position announcing."));
-			miliSeconds = this.GetConfigInt("scp-announce-time") * 1000;
+			this.AddConfig(new ConfigSetting("scp_announce_time", 30, true, "Sets the delay of position announcing."));
+			miliSeconds = this.GetConfigInt("scp_announce_time") * 1000;
 
 			System.Timers.Timer myTimer = new System.Timers.Timer();
 			myTimer.Elapsed += new ElapsedEventHandler(AnnounceThread);
